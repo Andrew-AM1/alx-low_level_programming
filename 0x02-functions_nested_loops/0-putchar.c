@@ -1,10 +1,9 @@
 #include "main.h"
+
 /**
- * main- main function (prints putchar)
- * main: main function
- * description: prints putchar
- * _putchar: print putchar
- * return: Always 0
+ * main - Determines if a number is positive, negative or zero.
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
